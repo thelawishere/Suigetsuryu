@@ -3,7 +3,7 @@ import Component from "./component";
 
 const Bar: NextPage = () => {
   return (
-    <section className="self-stretch rounded-12xs bg-lightsteelblue flex flex-row items-start justify-center pt-0 px-0 pb-[70px] box-border max-w-full text-center text-9xl text-firebrick font-poppins mq1225:gap-[69px] mq450:pb-[45px] mq450:box-border mq850:gap-[35px]">
+    <section className="self-stretch rounded-12xs bg-lightsteelblue flex flex-row items-start justify-center pt-0 px-0 pb-[70px] box-border max-w-full text-center text-9xl text-firebrick font-poppins mq1225:gap-[69px] mq450:pb-[45px] mq450:box-border">
       <div className="flex-1 flex flex-row items-end justify-center max-w-full min-h-[357px] mq850:gap-[29px]">
         <div className="flex-1 rounded-12xs flex flex-row flex-wrap items-start justify-between py-0 pr-[118px] pl-[111px] box-border gap-[20px] max-w-full mq1225:pl-[55px] mq1225:pr-[59px] mq1225:box-border mq850:pl-[27px] mq850:pr-[29px] mq850:box-border">
           <div className="w-[509px] rounded-15xl box-border flex flex-col items-start justify-start pt-0 px-0 pb-[53px] relative gap-[67px] max-w-full border-[1px] border-solid border-white mq450:gap-[17px] mq850:gap-[33px]">
