@@ -29,7 +29,7 @@ const FooterSection: NextPage = () => {
             </div>
           </div>
         </div>
-        <div className="h-[85px] w-[172px] flex flex-col items-start justify-start text-xs mq850:gap-[16px]">
+        <div className="h-[85px] w-[172px] flex flex-col items-start justify-start text-xs">
           <div className="w-[516px] h-[167px] flex flex-col items-end justify-end max-w-[300%] shrink-0">
             <div className="w-[239px] h-8 relative leading-[32px] flex items-end">
               © 2024 Suigetsuryu. All rights reserved.
