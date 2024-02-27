@@ -1,0 +1,21 @@
+{
+  "detectedConfig": {
+    "typescript": false,
+    "naming": "Pascal Case",
+    "unit": "px",
+    "framework": "nextjs",
+    "styling": "CSS"
+  },
+  "locofyConfig": {
+    "project": "youtube",
+    "id": "65dd5f422e6bbd3bf585653b",
+    "framework": "react-nextjs",
+    "typescript": true,
+    "styling": "Tailwind",
+    "unit": "px",
+    "naming": "Kebab Case",
+    "path": "public/",
+    "componentsPath": "c:\\Users\\17634\\Desktop\\Final\\src\\components",
+    "screensPath": "c:\\Users\\17634\\Desktop\\Final\\src\\pages"
+  }
+}
