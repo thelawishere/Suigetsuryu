@@ -55,7 +55,7 @@ const TopPage: NextPage = () => {
           </div>
           <a
             className="h-9 w-[229px] relative text-5xl [text-decoration:underline] font-bold font-poppins text-color-1 whitespace-pre-wrap text-left inline-block [text-shadow:0px_4px_2px_rgba(0,_0,_0,_0.5)] mq450:text-lgi"
-            href="https://www.youtube.com/@Suigetsuryu464"
+            href="https://www.twitch.tv/ferikkusu77"
             target="_blank"
           >
             Watch Twitch LIVE
